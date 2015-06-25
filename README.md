@@ -1,6 +1,5 @@
-# development-rules
+# Development-rules
 
-----------
 Welcome :). It's our development rules, please follow all of the rules/instruction/recommendation in this repository for make our code and project better.
 
 1. Git rules
