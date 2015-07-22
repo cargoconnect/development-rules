@@ -1,9 +1,11 @@
 # Github
 
-1. Preparing
-	1. Install git
-	2. Test your git with [http://gooseberrycreative.com/cmder/](http://gooseberrycreative.com/cmder/) or your cmd
-2. Coding
-	1. Before you start to code, please pull the latest repository ($ git pull)
-	2. Please code in your branch
-	3. After you finish your code, just test it before you push and merge to master branch
+1. Install Git
+2. Tes git melalui CMD, cmder, atau tools lainnya
+3. Selalu pull dari repository sebelum mulai coding
+4. Selalu commit dan push setelah selesai coding
+5. Lakukan testing, setelah selesai testing baru boleh merge ke master
+5. **`Branch master hanya berisi kodingan yang sudah dilakukan testing`**
+6. Tolong coding dulu branch lokal masing - masing, setelah selesai dan dilakukan testing tolong:
+	1. Push codingan dengan branch lokal tersebut
+	2. Merge master dengan kodingan yang sudah dilakukan testing
