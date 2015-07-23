@@ -1,5 +1,7 @@
 # Github
 
+Tolong ikuti ya:
+
 1. Install Git
 2. Tes git melalui CMD, cmder, atau tools lainnya
 3. Selalu pull dari repository sebelum mulai coding
