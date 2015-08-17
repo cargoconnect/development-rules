@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d41039c4-4209-4a7b-8719-896d6d483318" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UIUX/README.md" afterPath="$PROJECT_DIR$/UIUX/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/README.md" afterPath="$PROJECT_DIR$/code/README.md" />
     </list>
     <ignored path="development-rules.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,14 +40,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UIUX/README.md">
           <provider editor-type-id="MultiMarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="564">
+            <state vertical-scroll-proportion="-4.5333333" vertical-offset="0" max-vertical-offset="238">
               <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/README.md">
+          <provider editor-type-id="MultiMarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="564">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/github/README.md" />
         <option value="$PROJECT_DIR$/UIUX/README.md" />
+        <option value="$PROJECT_DIR$/code/README.md" />
       </list>
     </option>
   </component>
@@ -143,6 +157,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="development-rules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="development-rules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,8 +285,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="564">
+        <state vertical-scroll-proportion="-4.5333333" vertical-offset="0" max-vertical-offset="238">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/README.md">
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24113475" vertical-offset="0" max-vertical-offset="564">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

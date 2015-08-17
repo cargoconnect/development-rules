@@ -1,12 +1,11 @@
 # Code
 
-We try to create clean and readable code. If you want to know about clean code, you can read this book [https://www.safaribooksonline.com/library/view/clean-code/9780136083238/](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/). To create a clean code please spend your time to read the following rules:
+CleanCode [https://www.safaribooksonline.com/library/view/clean-code/9780136083238/](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/). To create a clean code please spend your time to read the following rules:
 
-1.  Use **camelCase** to name your variable and fucntion.
-2.  Use **UpperCase** to name your class
-3.  Name of variable, function, parameter, class must clear and easy to understand (good : var car, don't : var x)
-4.  Try to avoid the flag in if statement > **if (x == 0); please create like this one -> if (isReady)**
+1.  Kita bakal pake **camelCase** untuk namain fungsi dan variabel ya.
+2.  Kita bakal pake **UpperCase** untuk namain class atau controller
+3.  Tolong gunain nama yang bisa dimengerti gak cuma i/x/c/singkong/ataupapaun (do : var car, don't : var x)
+4.  Tolong hindari flag kayak gini nih di if statement > **if (x == 0); kalo bisa gini ya gini aja -> if (isReady)**
 
-If you have an idea to make this rule better, feel free to fix or add it :)
 
  
